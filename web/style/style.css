@@ -1,0 +1,31 @@
+body {
+    font-family: "Inter", sans-serif;   
+}
+
+.container {
+    padding: 0 200px 0 200px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.nav-items {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    gap: 40px;
+}
+
+.nav-logo { 
+    width: 60px;
+}
+
+.nav-buttons {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    gap: 30px;
+    padding-left: 80px;
+}
+
