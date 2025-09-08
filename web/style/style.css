@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-    padding: 0 200px 0 200px;
+    padding: 0 130px 0 130px;
 }
 
 ul {
@@ -29,3 +29,6 @@ ul {
     padding-left: 80px;
 }
 
+.container-two {
+   padding: 0 130px 0 130px;
+}
