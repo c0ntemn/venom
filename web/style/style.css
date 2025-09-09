@@ -25,7 +25,6 @@ ul {
 
 .nav-buttons {
     display: flex;
-    align-items: center;
     gap: 50px;
     padding-left: 100px;
 }
@@ -35,5 +34,9 @@ ul {
 }
 
 .zayavka {
-    padding: 20px 50px;
+    padding: 17px 75px;
+}
+
+.container-three {
+     padding: 0 300px 0 300px;
 }
