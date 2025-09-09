@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 body {
-    font-family: "Inter", sans-serif;   
+    font-family: "Inter", sans-serif;
 }
 
 .container {
-    padding: 0 130px 0 130px;
+    padding: 0 300px 0 300px;
 }
 
 ul {
@@ -11,24 +13,27 @@ ul {
 }
 
 .nav-items {
+    padding-top: 10px;
     display: flex;
     align-items: center;
-    padding: 10px;
     gap: 40px;
 }
 
-.nav-logo { 
+.nav-logo {
     width: 60px;
 }
 
 .nav-buttons {
     display: flex;
     align-items: center;
-    padding: 10px;
-    gap: 30px;
-    padding-left: 80px;
+    gap: 50px;
+    padding-left: 100px;
 }
 
 .container-two {
-   padding: 0 130px 0 130px;
+    padding: 0 300px 0 300px;
+}
+
+.zayavka {
+    padding: 20px 50px;
 }
